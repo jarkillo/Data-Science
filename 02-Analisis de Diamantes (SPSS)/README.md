@@ -9,6 +9,7 @@ Este proyecto presenta un análisis exploratorio detallado sobre un dataset de d
 - **datos_con_atipicos.sav**: Archivo de SPSS con los datos originales, con nulos eliminados pero con atípicos.
 - **Datos_con_todo.sav**: Archivo de SPSS sin realizar ninguna eliminación de datos.
 - **Diamonds_sin_atipicos.sav**: Archivo de SPSS con la eliminación de datos nulos y atípicos.
+- **Modelo.xlsx**: Archivo de Excel con el modelo realizado de forma manual y algunos gráficos para el EDA.
 
 ### Metodología
 El análisis comenzó con la revisión del dataset original, seguido de una limpieza de datos para eliminar valores nulos. Posteriormente, se identificaron y manejaron los valores atípicos. El estudio concluye con la propuesta de un modelo de machine learning, basado en los hallazgos del análisis exploratorio.
