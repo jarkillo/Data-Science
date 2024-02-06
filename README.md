@@ -38,6 +38,10 @@ Bienvenidos a mi portafolio de Data Science. Este repositorio contiene una varie
 - **Descripción**: Modelo para predecir la tasa de abandono de clientes (churn).
 - [Ver Proyecto](./08%20-%20Churn%20Prediction%20(Python))
 
+### Sistema de Recomendación y segmentación
+- **Descripción**: Análisis y modelo de recomendación de productos para Ecommerce
+- [Ver Proyecto](./09%20-%20Ecommerce%20Recommendation%20System%20(Python))
+
 ## Acerca de mí
 Soy graduado en marketing e investigación de mercados en la universidad de Sevilla y ahora mismo estoy cursando un doble master MBA y Data Analytics en la universidad Loyola. Soy un apasionado del análisis de datos con un enfoque en proporcionar insights claros y accionables. Mi experiencia abarca desde la limpieza y preparación de datos hasta el modelado estadístico y el machine learning. 
 
@@ -85,6 +89,10 @@ Welcome to my Data Science portfolio. This repository contains a variety of proj
 ### Churn Prediction
 - **Description**: Model to predict customer churn rate.
 - [View Project](./08%20-%20Churn%20Prediction%20(Python))
+
+### Recommendation and Segmentation System
+**Description**: Analysis and product recommendation model for Ecommerce
+- [View Project](./09%20-%20Ecommerce%20Recommendation%20System%20(Python))
 
 ## About Me
 I am a graduate in Marketing and Market Research from the University of Seville and I am currently pursuing a double Master's degree in MBA and Data Analytics at Loyola University. I am passionate about data analysis, focusing on providing clear and actionable insights. My experience ranges from data cleaning and preparation to statistical modeling and machine learning.
